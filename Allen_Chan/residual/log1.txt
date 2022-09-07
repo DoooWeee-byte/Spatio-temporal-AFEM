@@ -1,0 +1,8 @@
+python3 AllenCahn_residual.py --T 0.48 --tol 0.1 --TOLtime 0.1 --nt 4800
+
+eta: 0.20960434177462486
+average dof: 4394.469740634006
+max_dof: 15323
+max_refine_count: 1
+Running time: 316.89765429496765 Seconds
+

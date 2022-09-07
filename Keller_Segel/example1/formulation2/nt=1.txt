@@ -1,0 +1,36 @@
+time:0--------------------------------------------------------------------------
+count:1            errorUh:0.6326            errorVh:0.4643            dof:127
+count:2            errorUh:0.5181            errorVh:0.4165            dof:141
+count:3            errorUh:0.4187            errorVh:0.3517            dof:179
+count:4            errorUh:0.3329            errorVh:0.2849            dof:227
+count:5            errorUh:0.2573            errorVh:0.2281            dof:285
+count:6            errorUh:0.2135            errorVh:0.1856            dof:397
+count:7            errorUh:0.1656            errorVh:0.1533            dof:479
+time:0.00012--------------------------------------------------------------------------
+count:1            errorUh:0.6095            errorVh:0.1435            dof:485
+count:2            errorUh:0.5445            errorVh:0.1435            dof:491
+count:3            errorUh:0.6540            errorVh:0.1435            dof:497
+count:4            errorUh:0.5914            errorVh:0.1435            dof:511
+count:5            errorUh:0.6007            errorVh:0.1435            dof:517
+count:6            errorUh:0.5596            errorVh:0.1435            dof:531
+count:7            errorUh:0.5523            errorVh:0.1435            dof:537
+count:8            errorUh:0.5350            errorVh:0.1435            dof:581
+count:9            errorUh:0.4909            errorVh:0.1435            dof:603
+count:10            errorUh:0.4684            errorVh:0.1435            dof:617
+count:11            errorUh:0.4434            errorVh:0.1435            dof:711
+count:12            errorUh:0.4116            errorVh:0.1420            dof:763
+count:13            errorUh:0.3958            errorVh:0.1420            dof:869
+count:14            errorUh:0.3739            errorVh:0.1420            dof:991
+count:15            errorUh:0.3434            errorVh:0.1420            dof:1085
+count:16            errorUh:0.3292            errorVh:0.1420            dof:1223
+count:17            errorUh:0.3057            errorVh:0.1420            dof:1331
+count:18            errorUh:0.3003            errorVh:0.1420            dof:1411
+count:19            errorUh:0.2946            errorVh:0.1420            dof:1603
+count:20            errorUh:0.2770            errorVh:0.1419            dof:1841
+count:21            errorUh:0.2565            errorVh:0.1420            dof:2083
+count:22            errorUh:0.2452            errorVh:0.1420            dof:2127
+count:23            errorUh:0.2435            errorVh:0.1420            dof:2433
+count:24            errorUh:0.2310            errorVh:0.1419            dof:2725
+count:25            errorUh:0.2181            errorVh:0.1419            dof:3393
+count:26            errorUh:0.2005            errorVh:0.1419            dof:3961
+coarsendof:3961

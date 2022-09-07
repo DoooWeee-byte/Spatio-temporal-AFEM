@@ -1,0 +1,59 @@
+time:0--------------------------------------------------------------------------
+count:1            errorUh:0.6326            errorVh:0.4643            dof:127
+count:2            errorUh:0.5181            errorVh:0.4165            dof:141
+count:3            errorUh:0.4187            errorVh:0.3517            dof:179
+count:4            errorUh:0.3329            errorVh:0.2849            dof:227
+count:5            errorUh:0.2573            errorVh:0.2281            dof:285
+count:6            errorUh:0.2135            errorVh:0.1856            dof:397
+count:7            errorUh:0.1656            errorVh:0.1533            dof:479
+time:1e-05--------------------------------------------------------------------------
+count:1            errorUh:0.6338            errorVh:0.1437            dof:605
+count:2            errorUh:0.5163            errorVh:0.1193            dof:647
+count:3            errorUh:0.4636            errorVh:0.1112            dof:809
+count:4            errorUh:0.3067            errorVh:0.0976            dof:1001
+count:5            errorUh:0.3876            errorVh:0.0888            dof:1269
+count:6            errorUh:0.3353            errorVh:0.0762            dof:1399
+count:7            errorUh:0.3742            errorVh:0.0723            dof:1645
+count:8            errorUh:0.4460            errorVh:0.0651            dof:1921
+count:9            errorUh:0.6405            errorVh:0.0584            dof:2227
+count:10            errorUh:0.4133            errorVh:0.0543            dof:2567
+count:11            errorUh:0.2970            errorVh:0.0505            dof:2915
+count:12            errorUh:0.2127            errorVh:0.0475            dof:3371
+coarsendof:2555
+time:2e-05--------------------------------------------------------------------------
+count:1            errorUh:0.3938            errorVh:0.0525            dof:3059
+count:2            errorUh:0.2016            errorVh:0.0470            dof:3279
+coarsendof:2921
+time:3.0000000000000004e-05--------------------------------------------------------------------------
+count:1            errorUh:0.2029            errorVh:0.0485            dof:3205
+count:2            errorUh:0.2326            errorVh:0.0459            dof:3893
+coarsendof:2945
+time:4e-05--------------------------------------------------------------------------
+coarsendof:2731
+time:5e-05--------------------------------------------------------------------------
+count:1            errorUh:0.2028            errorVh:0.0517            dof:2851
+count:2            errorUh:0.2025            errorVh:0.0495            dof:3171
+count:3            errorUh:0.2136            errorVh:0.0465            dof:3679
+count:4            errorUh:0.2116            errorVh:0.0428            dof:4335
+count:5            errorUh:0.2333            errorVh:0.0397            dof:5105
+count:6            errorUh:0.2312            errorVh:0.0359            dof:5469
+count:7            errorUh:0.2012            errorVh:0.0343            dof:5721
+coarsendof:4205
+time:6.000000000000001e-05--------------------------------------------------------------------------
+count:1            errorUh:0.2171            errorVh:0.0415            dof:4569
+coarsendof:3443
+time:7.000000000000001e-05--------------------------------------------------------------------------
+count:1            errorUh:0.2335            errorVh:0.0473            dof:3677
+coarsendof:3213
+time:8e-05--------------------------------------------------------------------------
+coarsendof:2537
+time:9e-05--------------------------------------------------------------------------
+coarsendof:2287
+time:0.0001--------------------------------------------------------------------------
+coarsendof:2169
+time:0.00011--------------------------------------------------------------------------
+count:1            errorUh:0.2129            errorVh:0.0592            dof:2479
+count:2            errorUh:0.2000            errorVh:0.0550            dof:2653
+coarsendof:2517
+time:0.00012000000000000002--------------------------------------------------------------------------
+coarsendof:2253

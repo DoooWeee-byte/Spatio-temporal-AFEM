@@ -1,0 +1,61 @@
+t1 = 0:
+refine count:2-dof:127
+refine count:3-dof:150
+refine count:4-dof:178
+refine count:5-dof:192
+refine count:6-dof:230
+refine count:7-dof:294
+refine count:8-dof:328
+refine count:9-dof:368
+refine count:10-dof:434
+refine count:11-dof:644
+refine count:12-dof:780
+refine count:13-dof:976
+refine count:14-dof:1226
+refine count:15-dof:1586
+refine count:16-dof:2098
+refine count:17-dof:2372
+refine count:18-dof:2744
+refine count:19-dof:3286
+t1 = 0.001:
+coarsendof dof:2026
+t1 = 0.002:
+refine count:1-dof:2054-RelativeErrorEstimateU:0.06373231764025188-RelativeErrorEstimateV:0.06397508359213964
+refine count:2-dof:2098-RelativeErrorEstimateU:0.061416974062249045-RelativeErrorEstimateV:0.061241932353730884
+refine count:3-dof:2262-RelativeErrorEstimateU:0.05943490566007394-RelativeErrorEstimateV:0.05887089850365802
+refine count:4-dof:2398-RelativeErrorEstimateU:0.05754701809986787-RelativeErrorEstimateV:0.055151236595075794
+refine count:5-dof:3352-RelativeErrorEstimateU:0.056651040026917926-RelativeErrorEstimateV:0.0537943729066753
+refine count:6-dof:4054-RelativeErrorEstimateU:0.051333378293257466-RelativeErrorEstimateV:0.04897488623157248
+coarsendof dof:4054
+t1 = 0.003:
+refine count:1-dof:4082-RelativeErrorEstimateU:0.05101681750869061-RelativeErrorEstimateV:0.04584414069584727
+refine count:2-dof:4516-RelativeErrorEstimateU:0.050646765362065284-RelativeErrorEstimateV:0.04531318692424762
+coarsendof dof:4516
+t1 = 0.004:
+refine count:1-dof:4862-RelativeErrorEstimateU:0.05900067772045954-RelativeErrorEstimateV:0.04292881329602128
+refine count:2-dof:5422-RelativeErrorEstimateU:0.057422086948299686-RelativeErrorEstimateV:0.04203775890820266
+refine count:3-dof:6386-RelativeErrorEstimateU:0.055354952122692945-RelativeErrorEstimateV:0.04057362067354192
+refine count:4-dof:7036-RelativeErrorEstimateU:0.05200525928568636-RelativeErrorEstimateV:0.03948521309237518
+refine count:5-dof:8514-RelativeErrorEstimateU:0.05033600659080013-RelativeErrorEstimateV:0.038704810101447204
+coarsendof dof:8514
+t1 = 0.005:
+refine count:1-dof:8742-RelativeErrorEstimateU:0.0685785693575935-RelativeErrorEstimateV:0.03720166703292239
+refine count:2-dof:9744-RelativeErrorEstimateU:0.06734659095541026-RelativeErrorEstimateV:0.03683263704895411
+refine count:3-dof:11778-RelativeErrorEstimateU:0.06413148844812337-RelativeErrorEstimateV:0.035979918013354546
+refine count:4-dof:12558-RelativeErrorEstimateU:0.06017678507770986-RelativeErrorEstimateV:0.03423017241569888
+refine count:5-dof:15106-RelativeErrorEstimateU:0.059239632744654803-RelativeErrorEstimateV:0.033488758014768076
+refine count:6-dof:18320-RelativeErrorEstimateU:0.055832978562020436-RelativeErrorEstimateV:0.032719580308557004
+refine count:7-dof:22226-RelativeErrorEstimateU:0.053052659354382976-RelativeErrorEstimateV:0.031769769933668424
+coarsendof dof:22226
+t1 = 0.006:
+refine count:1-dof:22674-RelativeErrorEstimateU:0.07836337412298748-RelativeErrorEstimateV:0.03027490034137785
+refine count:2-dof:24290-RelativeErrorEstimateU:0.07755551584529878-RelativeErrorEstimateV:0.029921065999133325
+refine count:3-dof:26208-RelativeErrorEstimateU:0.07542034003716812-RelativeErrorEstimateV:0.029098719391479594
+refine count:4-dof:30204-RelativeErrorEstimateU:0.0731299640482459-RelativeErrorEstimateV:0.028564738298979167
+refine count:5-dof:36770-RelativeErrorEstimateU:0.06955979468538495-RelativeErrorEstimateV:0.027617609285061382
+refine count:6-dof:44938-RelativeErrorEstimateU:0.0652161917378478-RelativeErrorEstimateV:0.026593396732015308
+refine count:7-dof:54055-RelativeErrorEstimateU:0.06188541757855124-RelativeErrorEstimateV:0.025542009985671393
+refine count:8-dof:64427-RelativeErrorEstimateU:0.05848810026010771-RelativeErrorEstimateV:0.024897201162035552
+refine count:9-dof:79532-RelativeErrorEstimateU:0.05553603702513093-RelativeErrorEstimateV:0.024223250864986876
+refine count:10-dof:99483-RelativeErrorEstimateU:0.05237390325747692-RelativeErrorEstimateV:0.02332389472399427
+coarsendof dof:99483

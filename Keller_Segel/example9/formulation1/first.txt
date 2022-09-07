@@ -1,0 +1,14 @@
+\begin{table}[!htdp]
+\begin{tabular}[c]{|c|c|c|c|c|}\hline
+Dof & 32761 & 34225 & 35721 & 37249
+\\\hline
+$|| u - u_h||_{\Omega,0}$ & 4.7366e-04 & 4.7366e-04 & 4.7365e-04 & 4.7365e-04
+\\\hline
+Order & -- & 1.51e-05 & 1.34e-05 & 1.20e-05
+\\\hline
+$||\nabla u - \nabla u_h||_{\Omega, 0}$ & 4.5455e-03 & 4.5186e-03 & 4.4943e-03 & 4.4724e-03
+\\\hline
+Order & -- & 0.01 & 0.01 & 0.01
+\\\hline
+\end{tabular}
+\end{table}
